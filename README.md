@@ -6,7 +6,7 @@
 
 # node-js-sample
 
-A barebones Node.js app using [Express 4](http://expressjs.com/).
+A barebones editing this line in the feature branch now i am in the master branch and editing this Node.js app using [Express 4](http://expressjs.com/).
 
 ## Running Locally
 
