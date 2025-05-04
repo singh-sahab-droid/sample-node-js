@@ -11,3 +11,4 @@ app.get('/', function(request, response) {
 app.listen(app.get('port'), function() {
   console.log("Node app is running at localhost and i wil be able to see that its running now will see its conflicting or not  :" + app.get('port'))
 })
+console.log ("node is running well and god")
